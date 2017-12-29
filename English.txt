@@ -1,5 +1,5 @@
 ﻿
-#0# Start Server
+#0# Options
 #1# Join Multiplayer
 #2# Options
 #3# Developers
